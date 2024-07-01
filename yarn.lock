@@ -1572,7 +1572,7 @@
 
 "@uniswap/sdk-core@https://github.com/0xdefi-club/dtx-swap-sdk-core-interface.git":
   version "3.0.1"
-  resolved "https://github.com/0xdefi-club/dtx-swap-sdk-core-interface.git#41aab52506744c25ae9fd101b75d6a2f54a82c21"
+  resolved "https://github.com/0xdefi-club/dtx-swap-sdk-core-interface.git#9f24e3e11bf88b16680c6125dd96cf5b3bca1fd0"
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
@@ -1599,7 +1599,7 @@
 
 "@uniswap/v2-sdk@https://github.com/0xdefi-club/dtx-swap-v2-sdk-interface.git":
   version "3.0.1"
-  resolved "https://github.com/0xdefi-club/dtx-swap-v2-sdk-interface.git#cc18732f10c9115149b7c9f78f71d281530e8a61"
+  resolved "https://github.com/0xdefi-club/dtx-swap-v2-sdk-interface.git#b9f8b850f360ce93e6e71ea0cf29966f2baf6264"
   dependencies:
     "@ethersproject/address" "^5.0.0"
     "@ethersproject/solidity" "^5.0.0"
@@ -1638,7 +1638,7 @@
 
 "@uniswap/v3-sdk@https://github.com/0xdefi-club/dtx-swap-v3-sdk-interface.git":
   version "3.8.2"
-  resolved "https://github.com/0xdefi-club/dtx-swap-v3-sdk-interface.git#de9624fcff6b53f3cdf379de32faabdd320fde7e"
+  resolved "https://github.com/0xdefi-club/dtx-swap-v3-sdk-interface.git#fef67e9222b92eb00c145b0a711353e604188294"
   dependencies:
     "@ethersproject/abi" "^5.0.12"
     "@ethersproject/solidity" "^5.0.9"
